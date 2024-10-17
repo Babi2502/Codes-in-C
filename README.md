@@ -15,11 +15,12 @@ Bem-vindo ao repositório **Codigos em C**! Aqui você encontrará os códigos e
 ## 📂 Estrutura do Projeto
 
 ```bash
-├── slides/
-│   └── aula-flutter.pdf    # Slides apresentados durante a aula
-├── src/
-│   ├── lib/
-│   │   ├── main.dart        # Arquivo principal da aplicação Flutter
-│   │   └── widgets/         # Componentes (widgets) customizados
-│   └── pubspec.yaml         # Configuração do projeto Flutter
-└── README.md                # Este arquivo
+├── ED/                        # Pasta principal de Estruturas de Dados
+│
+├── ICC/                       # Pasta principal de Introdução à Ciência da Computação
+│   ├── exercicios_do_livro/   # Exercícios baseados no livro
+│   ├── lista_3/               # Lista 3 de exercícios
+│   ├── provas/                # Provas realizadas durante a disciplina
+│   └── trabalhos/             # Trabalhos e projetos da disciplina
+│
+└── README.md                  # Descrição do repositório e instruções              # Este arquivo
